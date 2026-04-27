@@ -1,0 +1,81 @@
+# ===================================
+
+# Backend (Spring Boot / Java)
+
+# ===================================
+
+# Build output
+
+target/
+
+# Compiled files
+
+*.class
+
+# Logs
+
+*.log
+logs/
+
+# ===================================
+
+# Frontend (React / Node.js)
+
+# ===================================
+
+# Dependencies
+
+node_modules/
+
+# Build output
+
+build/
+dist/
+
+# ===================================
+
+# Environment Variables
+
+# ===================================
+
+.env
+.env.local
+.env.development
+.env.production
+
+# ===================================
+
+# IDE Files
+
+# ===================================
+
+# IntelliJ / WebStorm
+
+.idea/
+*.iml
+
+# Eclipse / STS
+
+.classpath
+.project
+.settings/
+
+# ===================================
+
+# OS Files
+
+# ===================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===================================
+
+# Temporary Files
+
+# ===================================
+
+*.swp
+*.swo
+*~
